@@ -1,0 +1,16 @@
+{
+    "name": "kiinz/prs-4",
+    "description": "project",
+    "authors": [
+        {
+            "name": "kawaibii",
+            "email": "khoanld98@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
